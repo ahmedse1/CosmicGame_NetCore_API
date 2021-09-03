@@ -1,0 +1,349 @@
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\API.exe
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\API.deps.json
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\API.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\API.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\Models.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\Repository.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\Services.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\Utility.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\Services.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\Utility.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\Models.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\bin\Debug\netcoreapp3.1\Repository.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cs
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\obj\Debug\netcoreapp3.1\scopedcss\bundle\API.styles.css
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\obj\Debug\netcoreapp3.1\API.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\obj\Debug\netcoreapp3.1\API.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\API.exe
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\API.deps.json
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\API.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\API.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\Models.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\Repository.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\Services.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\Utility.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\Services.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\Utility.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\Models.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\Repository.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cs
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\obj\Debug\netcoreapp3.1\scopedcss\bundle\API.styles.css
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\obj\Debug\netcoreapp3.1\API.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\obj\Debug\netcoreapp3.1\API.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\API\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\API.exe
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\API.deps.json
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\API.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\API.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\Models.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\Repository.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\Services.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\Utility.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\Services.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\Models.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\Repository.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\bin\Debug\netcoreapp3.1\Utility.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cs
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\obj\Debug\netcoreapp3.1\scopedcss\bundle\API.styles.css
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\obj\Debug\netcoreapp3.1\API.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\obj\Debug\netcoreapp3.1\API.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\API.exe
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\API.deps.json
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\API.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\API.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Models.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Repository.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Services.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Utility.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Services.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Models.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Repository.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Utility.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cs
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\scopedcss\bundle\API.styles.css
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\API.exe
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\API.deps.json
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\API.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\API.pdb
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Models.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Repository.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Services.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Utility.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Services.pdb
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Models.pdb
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Repository.pdb
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Utility.pdb
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cs
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\scopedcss\bundle\API.styles.css
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.pdb
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\API.exe
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\API.deps.json
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\API.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\API.pdb
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Utility.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Utility.pdb
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.pdb
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll

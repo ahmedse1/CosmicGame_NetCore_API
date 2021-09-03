@@ -1,0 +1,96 @@
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\Service\bin\Debug\netstandard2.0\Services.deps.json
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\Service\bin\Debug\netstandard2.0\Services.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\Service\bin\Debug\netstandard2.0\Services.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\Service\bin\Debug\netstandard2.0\Models.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\Service\bin\Debug\netstandard2.0\Repository.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\Service\bin\Debug\netstandard2.0\Utility.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\Service\bin\Debug\netstandard2.0\Models.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\Service\bin\Debug\netstandard2.0\Repository.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\Service\bin\Debug\netstandard2.0\Utility.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\Service\obj\Debug\netstandard2.0\Services.csprojAssemblyReference.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\Service\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\Service\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\Service\obj\Debug\netstandard2.0\Services.csproj.CoreCompileInputs.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\Service\obj\Debug\netstandard2.0\Services.csproj.CopyComplete
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\Service\obj\Debug\netstandard2.0\Services.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\Tapin_NetCore\Tapin_NetCore\Service\obj\Debug\netstandard2.0\Services.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\Service\bin\Debug\netstandard2.0\Services.deps.json
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\Service\bin\Debug\netstandard2.0\Services.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\Service\bin\Debug\netstandard2.0\Services.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\Service\bin\Debug\netstandard2.0\Models.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\Service\bin\Debug\netstandard2.0\Repository.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\Service\bin\Debug\netstandard2.0\Utility.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\Service\bin\Debug\netstandard2.0\Models.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\Service\bin\Debug\netstandard2.0\Repository.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\Service\bin\Debug\netstandard2.0\Utility.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\Service\obj\Debug\netstandard2.0\Services.csprojAssemblyReference.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\Service\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\Service\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\Service\obj\Debug\netstandard2.0\Services.csproj.CoreCompileInputs.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\Service\obj\Debug\netstandard2.0\Services.csproj.CopyComplete
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\Service\obj\Debug\netstandard2.0\Services.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\Service\obj\Debug\netstandard2.0\Services.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\Service\bin\Debug\netstandard2.0\Services.deps.json
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\Service\bin\Debug\netstandard2.0\Services.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\Service\bin\Debug\netstandard2.0\Services.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\Service\bin\Debug\netstandard2.0\Models.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\Service\bin\Debug\netstandard2.0\Repository.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\Service\bin\Debug\netstandard2.0\Utility.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\Service\bin\Debug\netstandard2.0\Models.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\Service\bin\Debug\netstandard2.0\Repository.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\Service\bin\Debug\netstandard2.0\Utility.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\Service\obj\Debug\netstandard2.0\Services.csprojAssemblyReference.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\Service\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\Service\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\Service\obj\Debug\netstandard2.0\Services.csproj.CoreCompileInputs.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\Service\obj\Debug\netstandard2.0\Services.csproj.CopyComplete
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\Service\obj\Debug\netstandard2.0\Services.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_Bitbucket\Service\obj\Debug\netstandard2.0\Services.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Services.deps.json
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Services.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Services.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Models.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Repository.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Utility.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Models.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Repository.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Utility.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\Service\obj\Debug\netstandard2.0\Services.csprojAssemblyReference.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\Service\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\Service\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\Service\obj\Debug\netstandard2.0\Services.csproj.CoreCompileInputs.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\Service\obj\Debug\netstandard2.0\Services.csproj.CopyComplete
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\Service\obj\Debug\netstandard2.0\Services.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore_API\Service\obj\Debug\netstandard2.0\Services.pdb
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Services.deps.json
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Services.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Services.pdb
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Models.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Repository.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Utility.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Models.pdb
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Repository.pdb
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Utility.pdb
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\Service\obj\Debug\netstandard2.0\Services.csprojAssemblyReference.cache
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\Service\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\Service\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\Service\obj\Debug\netstandard2.0\Services.csproj.CoreCompileInputs.cache
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\Service\obj\Debug\netstandard2.0\Services.csproj.CopyComplete
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\Service\obj\Debug\netstandard2.0\Services.dll
+D:\Upwork\Rajendram\CosmicGame_NetCore_API\Service\obj\Debug\netstandard2.0\Services.pdb
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Services.deps.json
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Services.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Services.pdb
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Models.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Repository.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Utility.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Models.pdb
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Repository.pdb
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\Service\bin\Debug\netstandard2.0\Utility.pdb
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\Service\obj\Debug\netstandard2.0\Services.csprojAssemblyReference.cache
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\Service\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\Service\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\Service\obj\Debug\netstandard2.0\Services.csproj.CopyComplete
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\Service\obj\Debug\netstandard2.0\Services.dll
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\Service\obj\Debug\netstandard2.0\Services.pdb
+C:\Users\Ahmed Hassan\source\repos\CosmicGameNew\CosmicGame_NetCore_API\Service\obj\Debug\netstandard2.0\Services.csproj.CoreCompileInputs.cache

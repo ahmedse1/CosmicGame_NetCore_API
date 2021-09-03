@@ -1,0 +1,11 @@
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\SDK\bin\Debug\netstandard2.0\SDK.deps.json
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\SDK\bin\Debug\netstandard2.0\SDK.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\SDK\bin\Debug\netstandard2.0\SDK.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\SDK\bin\Debug\netstandard2.0\System.Web.Mvc.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\SDK\obj\Debug\netstandard2.0\SDK.AssemblyInfoInputs.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\SDK\obj\Debug\netstandard2.0\SDK.AssemblyInfo.cs
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\SDK\obj\Debug\netstandard2.0\SDK.csproj.CoreCompileInputs.cache
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\SDK\obj\Debug\netstandard2.0\SDK.csproj.CopyComplete
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\SDK\obj\Debug\netstandard2.0\SDK.dll
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\SDK\obj\Debug\netstandard2.0\SDK.pdb
+D:\WinappTech\Project\Upwork\Raj_Rajendram\CosmicGame_NetCore\SDK\obj\Debug\netstandard2.0\SDK.csprojAssemblyReference.cache
