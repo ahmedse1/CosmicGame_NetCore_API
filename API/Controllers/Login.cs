@@ -1,16 +1,12 @@
 ﻿using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Models.Request;
 using Models.Response;
 using Services.Interface;
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Net;
 using System.Threading.Tasks;
-using Utility;
 
 namespace API.Controllers
 {
@@ -86,22 +82,22 @@ namespace API.Controllers
             return Ok(result);
         }
         [AllowAnonymous]
-        [HttpPost]
+        [HttpGet]
         [Route("Userverify")]
-        public async Task<IActionResult> Userverify(string userId)
+        public async Task<IActionResult> Userverify(string token)
         {
-            var result = await _ILoginService.Userverify(userId);
+            string strToken = System.Net.WebUtility.UrlDecode(token);
+            var result = await _ILoginService.Userverify(token);
             return Ok(result);
         }
 
-
-        [AllowAnonymous]
-        [HttpPost]
-        [Route("ForgotPassword")]
-        public async Task<IActionResult> ForgotPassword(string Email)
-        {
-            var result = await _ILoginService.ForgotPassword(Email);
-            return Ok(result);
-        }
+    [AllowAnonymous]
+    [HttpPost]
+    [Route("ForgotPassword")]
+    public async Task<IActionResult> ForgotPassword(RegisterRequest userRequest)
+    {
+            var result = await _ILoginService.ForgotPassword(userRequest.Email);
+        return Ok(result);
     }
+}
 }   
